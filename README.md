@@ -13,8 +13,12 @@ Here are some ideas to get you started:
 * [Technologies](#technologies)
 
 ## About me
-This project is simple Lorem ipsum dolor generator.
-	
+Background in Android application development and recent graduate in Big Data Solution Architecture. Experience building complex mobile applications using Java, JSON, XML, and PHP API to fetch data from MySQL database as well as Android in-built database SQLite.
+
+Very passionately curious about learning new technologies, having hands-on learning experience building a custom object detection model using TensorFlow 2.0.0 and implementation of various machine learning models based on machine learning algorithms to solve regression, classification, and clustering(segmentation) problems.
+
+Open for an opportunity in entry level position to Machine Learning/Data Analysis.
+
 ## Technologies
 I'm aware of following technologies and have hands on learning experience:
 * Python: 3.6.8
