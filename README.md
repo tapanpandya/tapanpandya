@@ -20,11 +20,12 @@ Very passionately curious about learning new technologies, having hands-on learn
 Open for an opportunity in entry level position to Machine Learning/Data Analysis.
 
 ## Technologies
-I'm aware of following technologies and have hands on learning experience:
+I have working knowledge and hands on learning experience of following technologies:
 * Python: 3.6.8
 * TensorFlow 2.0.0
 * Java
 * PHP
+* React Native
 * JSON
 * XML
 * SQL
