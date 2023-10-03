@@ -17,10 +17,10 @@ Background in Android application development and recent graduate in Big Data So
 
 Very passionately curious about learning new technologies, having hands-on learning experience building a custom object detection model using TensorFlow 2.0.0 and implementation of various machine learning models based on machine learning algorithms to solve regression, classification, and clustering(segmentation) problems.
 
-Open for an opportunity in entry level position to Machine Learning/Data Analysis.
+Open for an opportunity in an entry-level position to Machine Learning/Data Analysis.
 
 ## Technologies
-I have working knowledge and hands on learning experience of following technologies:
+I have working knowledge and hands-on learning experience with the following technologies:
 * Python: 3.6.8
 * TensorFlow 2.0.0
 * Java
